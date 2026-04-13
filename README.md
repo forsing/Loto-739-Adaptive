@@ -13,6 +13,7 @@ streamlit run lotto_ai/gui/app.py
 
 
 
+
 | Paket                       | Verzija |
 | --------------------------- | ------- |
 | **python**                  | 3.11.13 |
