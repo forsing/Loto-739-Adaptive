@@ -4,7 +4,7 @@
 
 
 """
-cd /Users/4c/Desktop/GHQ/kurzor/lotto-max-ai-new-main
+cd /
 streamlit run lotto_ai/gui/app.py
 """
 
@@ -368,12 +368,14 @@ st.info("💡 **Tip:** Select 3-4 tickets, mark them as played, then come back a
 
 
 
+
+
 """
 📊 AI-Optimized Tickets 
-Ticket 1 (AI-Optimized) 06 07 12 20 22 23 32 
-Ticket 2 (AI-Optimized) 08 09 18 26 27 30 37 
+Ticket 1 (AI-Optimized) 06 07 x y z 23 32 
+Ticket 2 (AI-Optimized) 08 09 x y z 30 37 
 🎲 Random Mix Tickets 
-Ticket 3 (Random) 06 13 16 20 31 36 39
+Ticket 3 (Random) 06 x 16 y 31 z 39
 """
 
 
@@ -432,13 +434,4 @@ Naziv „AI“ je širi od stvarne metode: glavni generator je dominantno statis
 Više except Exception grana u GUI toku daje manje preciznu dijagnostiku grešaka.
 
 sys.path.insert za import rešava pakovanje pragmatično, ali je arhitektonski krhko u različitim runtime okruženjima.
-"""
-
-
-
-
-"""
-Streamlit GUI. Adaptive Learner Model. SQLAlchemy DB. 
-Frequency model. Laplace smoothing. Bayesian framing. Thompson-sampling. Rolling frequency.  
-Hybrid portfolio. Feature engineering. Persistencija i evaluacija. Session-state UX. Cloud-safe. Robust UX. 
 """
