@@ -1,0 +1,7 @@
+streamlit
+sqlalchemy
+requests
+beautifulsoup4
+python-dateutil
+pandas
+numpy
