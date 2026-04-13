@@ -3,10 +3,7 @@
 
 
 
-"""
-cd /
 streamlit run lotto_ai/gui/app.py
-"""
 
 
 
