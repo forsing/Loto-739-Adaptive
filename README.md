@@ -2,12 +2,10 @@
 # https://github.com/filipseva96/lotto-max-ai-new
 
 
-
 """
 cd /
 streamlit run lotto_ai/gui/app.py
 """
-
 
 
 # promena sifre za ulaz u aplikaciju Enter password to access 
@@ -16,7 +14,6 @@ streamlit run lotto_ai/gui/app.py
 # trenutna sifra je "1234"
 # pa ako hoces promeni i ponovo pokreni aplikaciju
 # streamlit run lotto_ai/gui/app.py
-
 
 
 | Paket                       | Verzija |
