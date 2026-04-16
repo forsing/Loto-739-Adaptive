@@ -1,4 +1,4 @@
-# Inspiration - Inspiracija
+# Inspiracija/Nadogradnja - Inspiration/Upgrade
 # https://github.com/filipseva96/lotto-max-ai-new
 
 
