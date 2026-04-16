@@ -1,16 +1,13 @@
-Inspiration - Inspiracija
+Inspiracija/Nadogradnja - Inspiration/Upgrade
 https://github.com/filipseva96/lotto-max-ai-new
 
+streamlit run lotto_ai/gui/app.py
 
 promena sifre za ulaz u aplikaciju Enter password to access 
 u    .streamlit/secrets.toml
 app_password = "1234"
 trenutna sifra je "1234"
 pa ako hoces promeni i ponovo pokreni aplikaciju
-
-streamlit run lotto_ai/gui/app.py
-
-
 
 
 
